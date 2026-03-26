@@ -35,15 +35,3 @@ A lógica implementada foca na interação com o usuário (Recruta) e no process
 // Exemplo da lógica de cálculo de jornada:
 int anoInicio = int.Parse(entradaAno);
 int anosDeJornada = DateTime.Now.Year - anoInicio;
-```
-
----
-
-## 📸 Evidência de Execução ("A Prova do Crime")
-
-Abaixo, a captura de tela demonstrando o sistema em pleno funcionamento, após a execução do comando `dotnet run`:
-
-![Evidência do Sistema Expert](Captura de tela 2026-03-26 195435.png)
-
----
-**Desenvolvido por Lucas Nery Miranda** *Estudante de Ciência da Computação - UNA Contagem*
