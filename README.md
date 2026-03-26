@@ -43,7 +43,7 @@ int anosDeJornada = DateTime.Now.Year - anoInicio;
 
 Abaixo, a captura de tela demonstrando o sistema em pleno funcionamento, após a execução do comando `dotnet run`:
 
-![Evidência do Sistema Expert](./screenshot-dotnet.png)
+![Evidência do Sistema Expert](Captura de tela 2026-03-26 195435.png)
 
 ---
 **Desenvolvido por Lucas Nery Miranda** *Estudante de Ciência da Computação - UNA Contagem*
